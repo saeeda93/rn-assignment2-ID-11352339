@@ -20,4 +20,7 @@ const styles = StyleSheet.create({
   name: {
     fontWeight: 'bold', // to Make the name bold
   },
+  text: {
+    fontSize: 24, 
+  },
 });
