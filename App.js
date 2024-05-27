@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   name: {
-    fontWeight: 'bold', // to Make the name bold
+    fontWeight: 'bold', // To Make the name bold
   },
   text: {
     fontSize: 24, 
